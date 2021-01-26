@@ -4,7 +4,7 @@
 This project's goal is to work with big data in an AWS environment and further our Machine Learning and Predictive Modeling toolkit, against a large scale dataset.
 
 ### Collaborators
-Alex Qaddourah, Marissa Fink, Vishal Narayanan, Abbie Amiotte, Neha Thakar
+Neha Thakar, Alex Qaddourah, Marissa Fink, Vishal Narayanan, Abbie Amiotte
 
 ### Dataset
 my_output_csv contains the entire dataset filtered for those with over 250 votes and no blank rows.
